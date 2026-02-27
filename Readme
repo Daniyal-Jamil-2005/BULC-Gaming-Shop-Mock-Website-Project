@@ -1,4 +1,6 @@
-open vs studio or powershell in ur file and enter the command NODE SERVER.JS 
-this will run the server on localhost 3000
+This Project focuses on Database concepts and taclkes a challenge with respect to stacks, 
+Challenge: create the website using only html with internal js and css, no external linking or external files.
+database: microsoft sql server ( yes i chose the hardest one to use )
+To Run: Open up public or HTML folder run npm run dev or node run, your mock website should run locally
 
 
